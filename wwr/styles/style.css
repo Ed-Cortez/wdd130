@@ -194,9 +194,7 @@ footer {
     margin-top: 10px;
 }
 
-h4 {
-    color: black;
-}
+
 
 .msg h2 {
     color: white;
@@ -342,6 +340,15 @@ main {
     padding: 35px;
     grid-column: 6/10;
     grid-row: 8/9;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+
+.section-4 {
+    background-color: rgba(20,30,13, .7);
+    line-height: 1.5em;
+    padding: 35px;
+    grid-column: 6/10;
+    grid-row: 9/10;
     box-shadow: 5px 5px 10px #6f7364;
 }
 
